@@ -49,3 +49,12 @@ Proje aktif olarak geliştirilmektedir.
 Bu repository'de canlı sistemin kaynak kodları bulunmaz. Veritabanı bilgileri, API anahtarları, kullanıcı verileri, yönetici erişimleri, sunucu yapılandırmaları ve diğer hassas bilgiler hiçbir şekilde yayımlanmaz.
 
 © 2026 ŞeffafPazar
+
+
+---
+
+**Portfolio Summary (EN):** Producer-to-buyer marketplace platform with role-based panels, messaging, PWA, SEO and AI/LLM discoverability.
+
+**Live Demo:** https://seffafpazar.com/
+
+**Topics:** php, mysql, javascript, pwa, marketplace, technical-seo, schema-org, responsive-design, portfolio
